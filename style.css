@@ -9,6 +9,11 @@ body {
     text-align: center;
 }
 
+.proto1 {
+	font-family: Montserrat;
+	text-align: center;
+}
+
 .lockdown {
     font-family: Montserrat;
 	-moz-box-shadow:inset 0px 39px 0px -24px #000000;
